@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  NYC Violation Ticket Analysis             |  Ticket Analysis Case Study            |   [Link to repo](https://github.com/Sena-Aku-Agbotse/NYC-Violation-Ticket-Analysis)  |
+| 2 |Tip Calculator        |  Tip Calculator Program             | [Link to repo](https://github.com/Sena-Aku-Agbotse/Tip-Calculator)      |
+| 3 |  Titanic Data Exploration        |  Exploratory Data Analysis             | [Link to repo](https://github.com/Sena-Aku-Agbotse/Titanic-Data-Exploration)     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
